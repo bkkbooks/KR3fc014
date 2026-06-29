@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/118
+seq: 118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 納過粟數丙仿此今有官配粟七十二石九斗六升令三等人戶出之上等二十四戶每戶五分中等四十戶每戶三分下等六十四戶每戶一分問戶及逐等各該幾何答曰上等每戶一石二斗該二十八石八斗中等每戶七斗二升該二十八石八斗下等每戶二斗四升該一十五石三斗六升法曰置官配粟數別置上等二十四戶五因得一百二十又置中等四十戶三因得一百二十又置下等六十四戶併得三百四爲法以三四除官配粟得二斗四升卽是下等一戶所出之數三因是中等一戶所出之數五因是上等一戶所出之數將上等二十四
+  hash: sha256:d570f11b979fe48357afcf4b1da3269fe5d6ed6b4ac4d2ea6c4589b5a56f6d7f
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:e24e4622cbc76f6908fd09fb4108b0c0ed777cbcf4e8cec4bea00ef8097f5e8c

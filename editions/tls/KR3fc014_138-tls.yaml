@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢八分五釐麥每斗價鈔一錢三分六釐問麻麥各數幷該鈔幾何答曰麥二十五石二斗七升該鈔三十四兩三錢六分七釐二毫麻一十三石四斗五升該鈔二十四兩八錢八分二釐五毫法曰置麻麥共數以麻斗價乘之得七十一兩六錢三分二釐於內減訖總糶鈔餘一十二兩三錢八分二釐三毫別置麻斗價於內減訖麥斗價餘四分九釐爲法以法除餘鈔一十二兩三錢八分二釐三毫得麥數於共數內減訖麥數餘爲麻數卻以麥斗價乘麥數得麥總價麻總價仿此今有銀五十七兩九錢每銀一錢買桃子一百六十四箇每銀一錢買李子一百二十八箇共買得桃李八萬三千二百二十箇問各用銀及桃李各幾何
+  hash: sha256:4e56831ff6c2d6dd7614acd64d2f0ebca7bdcd5c413759da0ce53a8c5d5d7d6a
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:647001d0400ea88d57f23b9b3d45fc2c3f8bb3c6fb646fd8f3aa83fd88662fb8

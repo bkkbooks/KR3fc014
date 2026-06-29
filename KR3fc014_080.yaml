@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價鈔三兩八錢五分問該錦幾何答曰一十二丈七尺法曰置都鈔數以尺價三八五歸除之布算如後五分巳盡九錢五七除三十五本身除三十更於下位除五皆盡八兩逢三進一十餘五八七除五十六本身除五十更於下位除六八十逢六進二十起六數而進二十於上二八除一十六本身除二十於下位還四二五除一十下位除一十本身尚餘二三二六十二變二作六更於下位加二四百逢三進一十起三數而進一十於上一八除八本身除一十於下位還二一五除五於第三位除五
+  hash: sha256:14b3811ceb9b3ebf1be0e867a201dcbeea4779b3b4e952d9b7084e9872464c92
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:c3b6e30dbb362f707383f565c0ab2b03dc09973385aae14cfad0b5e8b3881654

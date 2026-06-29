@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下位還五餘六呼七三除二十一定本身存三就除三十於下位還九餘四呼七二除一十四定本身存二就除二十於下位還六餘十四呼七八除五十六定本身存八就除六十於下位還四八分七八除五十六本身有十五算不可除先以一算於下位變十卻定本身存八就除六十於下位還四九錢七九除六十三定本身存九就除七十於下位還七七兩七九除六十三定本身存九就除七十於下位還七六十七三除二十一定本身存三就除三十於下位還九糴到一十九石該三兩五錢七分七釐九毫除九餘一十七呼九八除七十二定本身存八除
+  hash: sha256:ac9fb31c1da44626dcf927195ec739b48ed09d06a2d7a1b9e834f1acf15fd342
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:27441c45892055182ef8c73ee0b50a8972d99613e4e694f11df549afb55f0e82

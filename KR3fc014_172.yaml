@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/172
+seq: 172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十四丈以九歸之得三十六丈以斛法歸除之今有倚壁外角聚米下周一丈八尺高五尺四寸問米幾何答曰二十五石九斗二升法曰置下周一丈八尺自乘得三十二丈四尺又以高五尺四寸乘之得一百七十四丈九尺六寸以二十七歸除之得六丈四尺八寸以斛法除之丈量田畝古者量田較闊長全憑繩尺以牽量一形雖有一般法唯有方田法易詳若見喎斜並凹曲直須禆補取其方卻將乘實為田積二四除之畝法強今有方田橫直皆八十四步問該田幾何方答曰二十九畝九十六步即四分也法曰置八十四自乘得七千五十六步以畝法二十四歸除之
+  hash: sha256:4b7e6fa98ac1f107dd6363f6ddaf83001e78613aefe6147725035fdb2a3d9a39
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:1021944a93abc0ddceeb3c9b91cad23d2987953ab9833c7e3243f83eb13fa656

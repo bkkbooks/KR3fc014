@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六十六九加五十四本身加五十更於下位加四二百二九加一十八本身加一十更於下位加八今有鈔五十四兩五錢糴米假令每鈔一兩糴米一斗二升問該米幾何加三答曰六石五斗四升加四每兩一斗四升該七石六斗三升加六每兩一斗六升該八石七斗二升加八每兩一斗八升該九石八斗一升法曰置都鈔數以每兩米數加之布算同前更不重述今有鈔三百二十四兩七錢五分每兩買羅一尺八寸五分問幾何二位答曰六十丈七寸八分七釐五毫法曰置鈔數以每兩羅數加之布算如
+  hash: sha256:3eac216976f562cac37a084134966d7d018c9862058ce2eb00b6e519a6ae4e54
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:ae28ab7f6f07d123c6af89999124036d3e108ee5ba741899ce736615f8bb1133

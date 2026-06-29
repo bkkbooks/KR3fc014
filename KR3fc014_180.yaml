@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾何答曰一畝一百九十二步即八分法曰置周闊折半得三十六步別以徑闊二十四步折半得十二步以十二步乘三十六步得四百三十二步以畝法除之又法見後今有環田外周一百二十步中周八十四步徑六步問該田幾何答曰二畝一百三十二步即五分五釐法曰置外周併入中周共二百四步折半得一百二步以徑六步乘之得六百一十二步以畝法除之今有覆月田又弧矢田闊二十四步徑十二步問該田幾何答曰二百一十六步即九分法曰置弦闊二十四步以徑十二步乘之得二百八十八步四歸得七十二步又三因之
+  hash: sha256:88e540b568fff5db7b42af7e3e52cb02755516f3e7e873539b613ab7df38acf5
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:70fc5911ac4f39ab3fdebfd8e37c73b123bdd3eeeb8360d4aedf08501a88e73c

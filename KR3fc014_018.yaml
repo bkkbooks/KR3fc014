@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大數除小數相併餘為小數也不滿法添一下退一位小數除大數相併餘為大數也不滿法減一下退一位乘者同名相併異名卻減乘者存身更深一為小卻反之除者同名相減異名卻加除則不滿卻減一為小亦反之或乘或除見錢併糧石內加減一虛數其餘諸物皆無虛數並依十一百二之數也大數見大數為同名小見小同小數見大數為異名大見小同論糧石斗內無數斗上為大數斗下為小數也論斤斤內無數斤上為大數斤下為小數也論錢鈔錢內無數錢上為大數錢下為
+  hash: sha256:c399baf0dd0827d0424c0e819e4733982c0143586689c6d79f44eefa6faaf8d8
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:d223575f4f687607d864d4f70b6e522e9d99d7142b27ba0f8e34d007276cf95e

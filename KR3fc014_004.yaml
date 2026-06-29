@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷上九章名數小大名數九九合數斗斛丈尺斤稱田畝口訣乘除見揔因法加法乘法歸法減法即定身除歸除求一商除約分卷下異乘同除就物抽分差分和合差分端匹斤稱堆垛盤量倉窖丈量田畝田畝紐糧修築目録終
+  hash: sha256:be6c23c593d55cafc1246dd27ef5ff6dd34de780742d5c4def1781d0df730125
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:3d369a2c75a6b6ed98b8d84b5da78e51ef283898ec8cc65b16ec447e78b28106

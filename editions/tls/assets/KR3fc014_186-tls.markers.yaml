@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/markers/186
+seq: 186
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc014_tls_001-p93.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup89, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3fc014_tls_001-p93.s2}
+  - {type: line-break, offset: 14, content: '', id: KX_2_dup93, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc014_tls_001-p93.s3}
+  - {type: line-break, offset: 28, content: '', id: KX_3_dup93, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc014_tls_001-p93.s4}
+  - {type: line-break, offset: 42, content: '', id: KX_4_dup93, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3fc014_tls_001-p93.s5}
+  - {type: line-break, offset: 59, content: '', id: KX_5_dup93, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3fc014_tls_001-p93.s6}
+  - {type: line-break, offset: 68, content: '', id: KX_6_dup93, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR3fc014_tls_001-p93.s7}
+  - {type: line-break, offset: 82, content: '', id: KX_7_dup93, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3fc014_tls_001-p93.s8}
+  - {type: line-break, offset: 96, content: '', id: KX_8_dup93, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3fc014_tls_001-p93.s9}
+  - {type: line-break, offset: 97, content: '', id: KX_9_dup93, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3fc014_tls_001-p93.s11}
+  - {type: line-break, offset: 113, content: '', id: KX_11_dup92, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3fc014_tls_001-p93.s12}
+  - {type: line-break, offset: 131, content: '', id: KX_12_dup93, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR3fc014_tls_001-p93.s13}
+  - {type: line-break, offset: 145, content: '', id: KX_13_dup93, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: punctuation, offset: 156, content: ○, id: KR3fc014_tls_186-bkkpn1}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR3fc014_tls_001-p93.s14}
+  - {type: line-break, offset: 162, content: '', id: KX_14_dup93, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 175, content: '', id: KR3fc014_tls_001-p93.s15}
+  - {type: line-break, offset: 175, content: '', id: KX_15_dup92, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3fc014_tls_001-p93.s16.1}
+  - {type: line-break, offset: 189, content: '', id: KX_16_dup93, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg-start', offset: 196, content: '', id: KR3fc014_tls_001-p93.s16.2, seg_type: comm, member_ids: [KR3fc014_tls_001-p93.s16.2]}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3fc014_tls_001-p93.s16.2}
+  - {type: 'tls:seg-end', offset: 200, content: '', id: KR3fc014_tls_001-p93.s16.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3fc014_tls_001-p93.s17}
+  - {type: line-break, offset: 200, content: '', id: KX_17_dup91, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3fc014_tls_001-p93.s18}
+  - {type: line-break, offset: 219, content: '', id: KX_18_dup91, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3fc014_tls_001-p93.s19}
+  - {type: line-break, offset: 231, content: '', id: KX_19_dup92, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  back: []
+hash: sha256:e96e6556aae1197e5626226e5ad4a579ba846d7322473700dd3176811b8c794e

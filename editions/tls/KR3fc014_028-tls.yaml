@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下四假令每石鈔八兩八因答曰該二千二百二十八兩八錢六斗六八四十八變六斗作四十更於下位下八八石八八六十四變八石作六十更於下位下四七十七八五十六變七十作五十更於下位下六二百二八一十六變二百作一十更於下位下六假令每石鈔九兩九因答曰該二千五百七兩四錢六斗六九五十四變六斗作五十更於下位下四八石八九七十二變八石作七十更於下位下二七十七九六十三變七十作六十更於下位下三
+  hash: sha256:3cbc2ad4c19c7a378216ecc5aa886c409aeb6da971d277898e2cb112b85331d8
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:4eea46d7d6087341ea584f6d3b8831733e228cbd8877fc951746c68581a96f89

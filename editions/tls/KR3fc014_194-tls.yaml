@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/194
+seq: 194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置上廣併入下廣共三丈六尺折半得一丈八尺以高三丈六尺乘之得六十四丈八尺又以長二千五百二十尺乘之得一十六萬三千二百九十六丈卻以常積六十四尺爲法除之今有開渠長一千八百尺上廣七尺下廣九尺深四尺每人一日自穿運常積一百四十四尺令二百人開之問幾日畢答曰二日開畢法曰置上廣併入下廣共一丈六尺折半得八尺以深四尺乘之得三丈二尺又以長一千八百尺乘之得五萬七千六百尺別置一日積一百四十四尺以二百人乘之得二萬八千八百爲法以法除五萬七千六百得二日凡不切於初學者不及詳載洪武癸丑春廬陵李氏明經堂刊新刊詳明筭法卷下畢
+  hash: sha256:ca14876ec711f1cb8d3acc15c021bce1aa5f0cae9fc2fb400503d7177529c890
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:bb0a5c055e77ec4595f5c43d8c582bafd18428b3f23d7c53b1fe3e7b96ec50dd

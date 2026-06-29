@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二百三二如六變了本身二百於下位下位假令每石鈔四兩四因答曰該一千一百一十四兩四錢六斗四六二十四變六斗作二十更於下位下四八石四八三十二變八石作三十更於下位下二七十四七二十八變七十作二十更於下位下八二百四二如八起了本身二百於下位下八假令每石鈔五兩五因答曰該一千三百九十三兩六斗五六三十變六斗作三十八石五八四十變八石作四十七十五七三十五變七十作三十更於下位下五二百五二一十變二百作一十假令每石鈔六兩
+  hash: sha256:0b725d7747cb4e2b4aeaab4a950aba20b58da1fa36d51cf7a97ca97f4cb83df0
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:5c6d1f1ee76dafd2ec97f850eea3d4bc1d4e7df72b25c5f67bfd7692e2b8dbc8

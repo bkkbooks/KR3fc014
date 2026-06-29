@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置絹數以車五百三十三兩分之得八百二十七疋卻以裝了三百四十八車乘之得見裝絹數於揔絹內減訖見裝絹卽得聽候絹數今有李客出銀一十二兩三錢六分張客出銀一十九兩六錢四分共三十二兩營運折了七兩今只有二十五兩問各人合分銀幾何答曰張客一十五兩三錢四分三釐七毫五絲李客九兩六錢五分六釐二毫五絲法曰置張客銀一十九兩六錢四分以只有二十五兩乘之得四百九十一兩卻以共銀三十二兩爲法歸除之得張客合分銀數於揔銀內減了張客合分銀又減折了七兩餘爲李客合分銀數今有羅三千三百疋每疋四十二尺出關稅
+  hash: sha256:02777ec42a1c3ca15c54639350db576596ffaa9eb576173754e9c3071ead67c6
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:bfda3fd9ea21e0c43544c1c5fa8a2a3e97d3575d5a5458da4adec78785e7e5e7

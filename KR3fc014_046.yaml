@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有人一日淘金五分三釐五毫二十四人淘金三十二日間幾何答曰四十一兩八分八釐法曰置一日金數五分三釐五毫以二十四人乘之得一兩二錢八分四釐又以三十二日乘之除數釋例凡除法或單位九歸或就身減或歸除三者皆除也隨位數異其名爾除散也散總積為細零也布算皆從上記九歸十以下單位分者用此法先從首位大數算起用因法還元九歸之法乃分平湊數從來有見成數若有多歸作十歸如不盡搭添行一歸一歸不須歸其法故不立二歸二一添作五逢二進一十三歸三一三十一三二六十二逢三進一十四歸四一二十二四二添作五
+  hash: sha256:f6e4aeadaf7e0b9db6b905897c0dca8f3e1f1c4f51fe986c6262eee860478805
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:df645dafb3eaf566d42169b0ec49af11fef16206e2ccaf10a9f1f78881a7ae2c

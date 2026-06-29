@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有稅糧正米四萬六千七百五十一石二斗每石帶納耗米七升問總該幾何隔位加答曰正耗米共五萬二十三石七斗八升四合法曰置正米數以耗米隔位加之布算如後二斗二七加一十四隔一位下一十更於第三位下四一石一七加七隔二位下七五十五七加三十五隔一位下三十更於第三位下五七百七七加四十九隔一位下四十更於第三位下九六千六七加四十二隔一位下四十更於第三位下二四萬四七加二十八隔一位下二十更於第三位下八乘法二以上位數多者用此法從末位小數算起用歸除還元
+  hash: sha256:f62995e8feae41002cb24e498fa76dce0b4c6afbb506e1a2ad6b4394ec7550de
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:b1b0b6343da83ff3b4dba9961d05539b23e52683e0c707ddbe3d7a172f5ab8b3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩見斤減六斤求兩加六斤見秤減五秤求斤加五田畮丈量之法起於忽忽者長六寸闊一寸之地也十忽爲絲十絲爲毫十毫爲釐十釐爲分十分爲寸又六十萬寸爲一畮積二百四十步闊一步也又自方一步一面長五尺闊五尺計積二千五百寸二百四十步計六十萬寸也口授一數始於一窮於九至十則又爲一十矣一乘法或單位或就身加或留頭乘三者皆乘也隨位數異其名耳布算皆從下起亦有從上起者乃開方之法用之亦可大場中卻能誤人故止依法用自下而上一乘從下乘上除從上除下一言十挨身言零隔位謂如喝五五二十五則二十挨身五爲隔位蓋隔一位下也喝一
+  hash: sha256:d1fbcaf0c127f95af85a4eef7fb370f9d451bbb8390030f7a25d2e2805075fb4
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:531ce5dff594884c0f5a77116bbbcf4301ea875a7a9f64270dd3ba6879b613f2

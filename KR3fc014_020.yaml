@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小數也論氣力差發分內無數分上為大數分下為小數也論箇箇內無數箇上為大數箇下為小數也如數相除不及者大卻以為小小者卻以為大凡大小數相減若空者皆為大數大除小者並為小小除大者並為大十一百二千三萬四十萬五百萬六千萬七萬萬八分一釐二毫三絲四忽五微六纖七沙八塵九埃十升一合二勺三抄四撮五圭六粟七粒八因法二以上單位算者用之從末位小數算起用九歸還元合數九因須熟記呼如下位算為先變其身數呼求十從上因之十進前
+  hash: sha256:6f8d9a8780b7020f669bf67f84cdb8d477fdbc5a8b072510937ca101acb2b6a0
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:b83046e628b485cd36dde95a03740f289a46d2a8204ebe282076006ea3ba2570

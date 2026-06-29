@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加二五兩逢四進一十起了本身四數而進一十於上位尙餘一四一二十二變所餘一作二更於下位加二六十逢四進一十起了本身四數而進一十於上位尙餘二四二添作五變所餘二作五二百四二添作五變本身二作五五歸五人分之每人該五十三兩六分四釐二分五二倍作四變二作四三錢五三倍作六變三作六五兩逢五進一十起了本身五數而進一十於上位六十逢五進一十起了五數而進一十於上位尙餘一五一倍作二變所餘一作二二百五二倍作四變本身二作四
+  hash: sha256:8adc1c44437c35f91e895e0ba0088a6ff5ea7e9104dd66bc8be8d1dfba4b4ef9
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:d0a533286a67a5aaf5a734bae1df847cd42e839cd698ef039904960e517e76a1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置穀數以人數定身除之布算同前更不重述今有鈔四千一百八十兩八錢買羅一百五十六端問每端該鈔幾何除二位答曰二十六兩八錢法曰置鈔數以羅端數一五六定身除之布算如何八錢已盡餘四已盡八十兩五八除四十本身存八就除四十六八除四十八第二位除四十第三位除八盡一百五六除三十又以一算於下位變十然後除三十六六除三十六下位除三十更於第三位除六四千五二除一十首位四不可除先以一算於下位變十然後除一十六二除一十二下位除一十更於第三位除二
+  hash: sha256:77feb301fbccf68fbbfdcde6e42cde4a03fc6a0ffb147ee576d5a28712e4d6dc
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:7520f52081b82adab6a99dc98a9f43a02ec0c17a6e0e7b4bd43feb915bee171a

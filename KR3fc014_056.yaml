@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六歸六人分之每人該四十四兩二錢二分二分逢六進一十盡三錢逢六進一十起了六數而進一十於上位尚餘一六一下加四不動本身只於下位加四五兩逢六進一十起了六數而進一十於上位尚餘一六一下加四不動本身只於上位加四六十逢六進一十起了六數而進一十於上位尚餘二六二三十二變二作三更於下位加二二百六二三十二變二作三更於下位加二七歸七人分之每人該三十七兩九錢二釐八毫五絲七忽二分七二下加六只於下位加六七六八十四三位七四五十五四位
+  hash: sha256:3051a1f39dc8afefa0340c1d2a06c33f7d459788448be695ec7cb8c16e820685
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:62531cfc9d53ad2658ea65b8d670ea63aef8a78e2e5657fa0baa90aff7a26399

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/92
+seq: 92
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均就以爲法各七歸之二十一分乃是三箇七分一十四分乃是兩箇七分故曰三分之二今有絲二百五十二分斤之一百四十四問約之得幾何答曰七分斤之四法曰置二百五十二別置一百四十四更相減損各得三十六以此爲法各以三十六歸除之今有米一百三十五分斛之七十五問約之得幾何答曰九分斛之五法曰置一百三十五別置七十五更相減損各得一十五爲法定身除之新刊詳明筭法卷上
+  hash: sha256:13b8a8a1361f39d911202029b19235cd400fdc2bb2e88e57d53326f78aa6bc2b
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:01267ba4c1dcb6f94b2f9ddfed55a271fdb5d143dc60b982612817667515f33e

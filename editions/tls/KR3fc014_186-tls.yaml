@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/186
+seq: 186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高以乘之長又續此爲城積甚分明五因其積三而一是壤求堅法並行穿地四因於壤積法中仍用五歸成今有築牆上廣二尺下廣四尺高八尺長二百三十四尺問積幾何答曰五千六百一十六尺用壤九千三百六十尺穿地七千四百八十八尺法曰置上廣併入下廣共六尺折半得三尺以高八尺乘之得二十四尺又以長二百三十四尺乘之得積數別置積數五六一六以五因之得二萬八千八十又三歸之得用壤數別置用壤數九三六以四因之得三萬七千四百四十尺又五歸之得穿地數七四八八今有築臺一所上廣八尺長二丈下廣一丈八尺長三丈高一丈八尺問積幾何答曰六百丈
+  hash: sha256:2b37f6bc8e29ad0c7bb1886311c892cbd577ae03ddfaff3d127c7bf331ccb8e8
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:d481f313f16531054d0c3565a63e0da95d7e08dd40f00643b62bf1b380db97fd

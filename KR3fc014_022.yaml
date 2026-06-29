@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有米二百七十八石六斗糶之假令每石價鈔二兩問該鈔幾何二因答曰五百五十七兩二錢先從末位六斗算起法曰置都米數以每石價鈔因之今列布算之方于後六斗二六一十二變本身六斗作一十更於下位下二八石二八一十六變本身八石作一十更於下位下六七十二七一十四變本身七十作一十更於下位下四二百二二如四退了本身二數於下位下四假令每石價鈔三兩三因答曰八百三十五兩八錢六斗三六一十八變六斗作一十更於下位下八八石三八二十四變八石作二十更於下位下四七十三七二十一變七十作二十更於下位下一
+  hash: sha256:42354f61a475e7e8d8cb4bfd172281a1de3e243820b5c3833a04acb0893d8a3c
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:f9c68563edee2b7b89a1b65c6da79d543c9101d5f934fa7c25aafe9c41a74097

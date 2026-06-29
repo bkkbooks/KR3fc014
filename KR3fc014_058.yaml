@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七五七十一此數無盡且止於此三錢逢七進一十五兩七六八十四變六作八更於下位加四六十逢七進一十尚餘五七五七十一變所餘五作七更於下位加一二百七二下加六不動本身只於下位加六八歸八人分之每人該三十三兩一錢六分五釐二分八四添作五變四作五三錢八五六十二變五作六更於下位加二五兩逢八進一十起了八數而進一十於上位尚餘一八一下加二不動本身只於下位加二六十逢八進一十起了八數而進一十於上位尚餘二八二下加四不動本身只於下位加四二百八二下加四不動本身只於下位加四
+  hash: sha256:29c2f5a8333000920ec79a9682719bab2a3b4db5e0267e0074b55b826fc5c55b
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:2db28fb0ea41cc2f5ec665a8e6ab4e2f812d5b5d7c071cdf47f3afaf626347cd

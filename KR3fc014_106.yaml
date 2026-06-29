@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/106
+seq: 106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 就物抽分抽分法就物中抽腳價乘他都物求別用腳錢搭物價以其為法要除周除來便見腳之揔餘者皆為主合留算者不須求別訣只將此法記心頭今有粟一百三十七石八斗欲雇船裝載每粟一斗直時價一錢二分五釐議腳價三分五釐為無錢就粟內抽分問該腳粟幾何答曰腳價粟三十石一斗四升三合七勺五抄主粟一百七石六斗五升六合二勺五抄法曰置粟數以腳價乘之得四百八十二石三斗別置每斗價搭上腳價共一錢六分為法以法除四百八十二石三斗得今合抽今腳粟數於總內減腳粟即主粟今有羅六十七丈五尺於內抽一丈七尺五
+  hash: sha256:86f7f4a5ddf9bd20a3c18ac8ea6dee4d5c18110b98d06142df6d54e32ecb6ddb
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:ed180c4d0d6a8008de8445eceadaa9fbc7f208183960f6950c04f5b8d1c356ae

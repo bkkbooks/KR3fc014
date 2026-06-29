@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc014/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 銖搭入零一十八銖共四萬七千六百一十銖別置一十一兩以銖法二十四乘之得二百六十四搭上六銖共二百七十爲法以法除四萬七千六百一十得一百七十六疋餘九十銖以疋法四十二乘之得三千七百八十仍以二百七十歸除之得一丈四尺今有麪二百三十七斤一十四兩每斤價鈔一錢二分五釐問該鈔幾何答曰二十九兩七錢三分四釐三毫七絲五忽法曰置二百三十七斤通作三千七百九十二兩搭上一十四兩共三千八百六兩別置斤價一錢二分五釐以斤法十六除之得七八一二五爲法以法乘三千八百六兩得數今有粉九十八斤七兩每兩價鈔八分五釐四毫問該鈔幾何
+  hash: sha256:250ba6e74f64fd3fc3ebd32b86b2ceadcb17a20c43fd0329068c5387dec4d7cc
+metadata:
+  title: 詳明算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc014.xml
+hash: sha256:272bb75ad5a036f9364400bfcf9d84b97815560c11daa3019f50f3b3c55bdc8b
