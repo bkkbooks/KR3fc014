@@ -19,7 +19,6 @@ markers:
   - {type: line-break, offset: 86, content: '', id: KX_7_dup52, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fc014_tls_001-p52.s8}
   - {type: line-break, offset: 102, content: '', id: KX_8_dup52, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 109, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fc014_tls_001-p52.s9}
   - {type: line-break, offset: 117, content: '', id: KX_9_dup52, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 130, content: '', id: KR3fc014_tls_001-p52.s11}
@@ -38,9 +37,7 @@ markers:
   - {type: line-break, offset: 213, content: '', id: KX_17_dup50, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 228, content: '', id: KR3fc014_tls_001-p52.s18}
   - {type: line-break, offset: 228, content: '', id: KX_18_dup50, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 240, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 243, content: '', id: KR3fc014_tls_001-p52.s19}
   - {type: line-break, offset: 243, content: '', id: KX_19_dup51, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 252, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   back: []
-hash: sha256:ad054651261d975e4744d19cb2fc0d4cd57c13536b23300085a58225c2c22445
+hash: sha256:2c1dd4f18179aac75e33b780fb59a75e0eaa12d182d6b8a0ea5390cf8278cfe0
