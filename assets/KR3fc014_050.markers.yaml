@@ -20,6 +20,7 @@ markers:
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fc014_tls_001-p25.s5.1}
   - {type: line-break, offset: 53, content: '', id: KX_5_dup25, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: line-break, offset: 56, content: '', id: KR3fc014_tls_050-bkklb2}
+  - {type: substitution, offset: 56, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
   - {type: 'tls:seg-end', offset: 59, content: '', id: KR3fc014_tls_001-p25.s5.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fc014_tls_001-p25.s6.1}
   - {type: line-break, offset: 59, content: '', id: KX_6_dup25, _xml_error: duplicate-id, _xml_original_id: KX_6}
@@ -35,6 +36,7 @@ markers:
   - {type: 'tls:seg', offset: 89, content: '', id: KR3fc014_tls_001-p25.s8.1}
   - {type: line-break, offset: 89, content: '', id: KX_8_dup25, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: line-break, offset: 92, content: '', id: KR3fc014_tls_050-bkklb5}
+  - {type: substitution, offset: 92, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
   - {type: 'tls:seg-end', offset: 95, content: '', id: KR3fc014_tls_001-p25.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fc014_tls_001-p25.s9.1}
   - {type: line-break, offset: 95, content: '', id: KX_9_dup25, _xml_error: duplicate-id, _xml_original_id: KX_9}
@@ -77,5 +79,6 @@ markers:
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fc014_tls_001-p25.s19.1}
   - {type: line-break, offset: 190, content: '', id: KX_19_dup24, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: line-break, offset: 193, content: '', id: KR3fc014_tls_050-bkklb12}
+  - {type: substitution, offset: 193, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
   back: []
-hash: sha256:571262a647b16859acb8445f7973ab480700eb184b0f4fb3b6ab771a77be7899
+hash: sha256:d3a0a46731d9d9352b12e4150c9e74c9d0f5438e54147bf9d12716baf9fbfb7e
